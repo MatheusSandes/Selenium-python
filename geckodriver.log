@@ -1,0 +1,615 @@
+1651067638751	geckodriver	INFO	Listening on 127.0.0.1:56157
+1651067639763	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile3XHnUh"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651067640491	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3XHnUh/search.json.mozlz4", (void 0)))
+1651067641868	Marionette	INFO	Listening on port 44583
+Read port: 44583
+1651067641984	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=fch94a, line 1: unreachable code after return statement
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 259: ReferenceError: PaymentRequest is not defined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/update-persistence.js, line 1: unreachable code after return statement
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-WG62X6Q, line 36: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-WG62X6Q, line 36: uncaught exception: [object Object]
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=fch94a, line 1: unreachable code after return statement
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 259: ReferenceError: PaymentRequest is not defined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-WG62X6Q, line 36: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-WG62X6Q, line 36: uncaught exception: [object Object]
+JavaScript warning: https://tm.jsuol.com.br/modules/update-persistence.js, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=fch94a, line 1: unreachable code after return statement
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 259: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/update-persistence.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1651067657019	Marionette	INFO	Stopped listening on port 44583
+1651068765034	geckodriver	INFO	Listening on 127.0.0.1:34161
+1651068765040	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileZSFO51"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651068765785	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZSFO51/search.json.mozlz4", (void 0)))
+1651068767194	Marionette	INFO	Listening on port 46735
+Read port: 46735
+1651068767260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=fch94a, line 1: unreachable code after return statement
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 259: ReferenceError: PaymentRequest is not defined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/update-persistence.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1651069218443	geckodriver	INFO	Listening on 127.0.0.1:48985
+1651069218448	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilemkRzFx"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651069219178	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemkRzFx/search.json.mozlz4", (void 0)))
+1651069220549	Marionette	INFO	Listening on port 44793
+Read port: 44793
+1651069220581	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=fch94a, line 1: unreachable code after return statement
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 265: ReferenceError: PaymentRequest is not defined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/update-persistence.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1651069233208	Marionette	INFO	Stopped listening on port 44793
+1651069271361	geckodriver	INFO	Listening on 127.0.0.1:42387
+1651069271365	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileNpD1VE"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651069272113	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNpD1VE/search.json.mozlz4", (void 0)))
+1651069273593	Marionette	INFO	Listening on port 35801
+Read port: 35801
+1651069273683	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=fch94a, line 1: unreachable code after return statement
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 265: ReferenceError: PaymentRequest is not defined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/update-persistence.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.evino.com.br"
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1651069471402	geckodriver	INFO	Listening on 127.0.0.1:35905
+1651069471405	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileevnDS7"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651069472143	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileevnDS7/search.json.mozlz4", (void 0)))
+1651069473562	Marionette	INFO	Listening on port 41709
+Read port: 41709
+1651069473628	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=fch94a, line 1: unreachable code after return statement
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 265: ReferenceError: PaymentRequest is not defined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/update-persistence.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.evino.com.br"
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1651069509376	Marionette	INFO	Stopped listening on port 41709
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1651069512904	Marionette	INFO	Stopped listening on port 35801
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651069517082	Marionette	INFO	Stopped listening on port 46735
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651069523728	geckodriver	INFO	Listening on 127.0.0.1:51155
+1651069523733	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileWrITn4"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651069524472	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWrITn4/search.json.mozlz4", (void 0)))
+1651069525862	Marionette	INFO	Listening on port 40225
+Read port: 40225
+1651069525953	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=fch94a, line 1: unreachable code after return statement
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 259: ReferenceError: PaymentRequest is not defined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/update-persistence.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1651069576284	geckodriver	INFO	Listening on 127.0.0.1:58573
+1651069576289	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileGxDMbG"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651069577049	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGxDMbG/search.json.mozlz4", (void 0)))
+1651069578492	Marionette	INFO	Listening on port 41979
+Read port: 41979
+1651069578611	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=fch94a, line 1: unreachable code after return statement
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 265: ReferenceError: PaymentRequest is not defined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/update-persistence.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1651069671876	geckodriver	INFO	Listening on 127.0.0.1:50721
+1651069671880	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileEJO3Jy"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651069672637	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEJO3Jy/search.json.mozlz4", (void 0)))
+1651069674021	Marionette	INFO	Listening on port 41405
+Read port: 41405
+1651069674096	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=fch94a, line 1: unreachable code after return statement
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 259: ReferenceError: PaymentRequest is not defined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/update-persistence.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1651069716534	geckodriver	INFO	Listening on 127.0.0.1:59017
+1651069716537	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilebSHZ6m"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651069717284	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebSHZ6m/search.json.mozlz4", (void 0)))
+1651069718705	Marionette	INFO	Listening on port 34587
+Read port: 34587
+1651069718768	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=fch94a, line 1: unreachable code after return statement
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 259: ReferenceError: PaymentRequest is not defined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/update-persistence.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1651069731723	Marionette	INFO	Stopped listening on port 34587
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651069747276	geckodriver	INFO	Listening on 127.0.0.1:41135
+1651069747279	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileEdN2Dv"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651069748047	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEdN2Dv/search.json.mozlz4", (void 0)))
+1651069749411	Marionette	INFO	Listening on port 46655
+Read port: 46655
+1651069749500	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=fch94a, line 1: unreachable code after return statement
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 259: ReferenceError: PaymentRequest is not defined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/update-persistence.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1651069851883	geckodriver	INFO	Listening on 127.0.0.1:44697
+1651069851888	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileEmvykc"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651069852643	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEmvykc/search.json.mozlz4", (void 0)))
+1651069854049	Marionette	INFO	Listening on port 41665
+Read port: 41665
+1651069854106	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=fch94a, line 1: unreachable code after return statement
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 259: ReferenceError: PaymentRequest is not defined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/update-persistence.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1651069888324	geckodriver	INFO	Listening on 127.0.0.1:46183
+1651069888328	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilecCUL6x"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651069889085	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecCUL6x/search.json.mozlz4", (void 0)))
+1651069890494	Marionette	INFO	Listening on port 37981
+Read port: 37981
+1651069890558	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=fch94a, line 1: unreachable code after return statement
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 259: ReferenceError: PaymentRequest is not defined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/update-persistence.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1651069909940	Marionette	INFO	Stopped listening on port 37981
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651069911997	Marionette	INFO	Stopped listening on port 41665
+1651069913869	Marionette	INFO	Stopped listening on port 46655
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651069926004	Marionette	INFO	Stopped listening on port 41405
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1651069926799	Marionette	INFO	Stopped listening on port 41979
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651070081509	geckodriver	INFO	Listening on 127.0.0.1:46829
+1651070081513	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileImP7Bt"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651070082317	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileImP7Bt/search.json.mozlz4", (void 0)))
+1651070083759	Marionette	INFO	Listening on port 36317
+Read port: 36317
+1651070083840	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=fch94a, line 1: unreachable code after return statement
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 259: ReferenceError: PaymentRequest is not defined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/update-persistence.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1651070174456	geckodriver	INFO	Listening on 127.0.0.1:56045
+1651070174460	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileEJGrIB"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651070175205	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEJGrIB/search.json.mozlz4", (void 0)))
+1651070176706	Marionette	INFO	Listening on port 35637
+Read port: 35637
+1651070176778	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=fch94a, line 1: unreachable code after return statement
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 259: ReferenceError: PaymentRequest is not defined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/update-persistence.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1651070255260	geckodriver	INFO	Listening on 127.0.0.1:49507
+1651070255265	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileRyQTNV"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651070256036	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRyQTNV/search.json.mozlz4", (void 0)))
+1651070257409	Marionette	INFO	Listening on port 46051
+Read port: 46051
+1651070257487	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=fch94a, line 1: unreachable code after return statement
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 259: ReferenceError: PaymentRequest is not defined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/update-persistence.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1651070284955	geckodriver	INFO	Listening on 127.0.0.1:46755
+1651070284958	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilesftGWN"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651070285718	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesftGWN/search.json.mozlz4", (void 0)))
+1651070287114	Marionette	INFO	Listening on port 44543
+Read port: 44543
+1651070287176	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=fch94a, line 1: unreachable code after return statement
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 259: ReferenceError: PaymentRequest is not defined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/update-persistence.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1651070365443	geckodriver	INFO	Listening on 127.0.0.1:43871
+1651070365446	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile3zUDXq"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651070366212	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3zUDXq/search.json.mozlz4", (void 0)))
+1651070367630	Marionette	INFO	Listening on port 39343
+Read port: 39343
+1651070367674	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=fch94a, line 1: unreachable code after return statement
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 265: ReferenceError: PaymentRequest is not defined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/update-persistence.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=fch94a, line 1: unreachable code after return statement
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 265: ReferenceError: PaymentRequest is not defined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/update-persistence.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=fch94a, line 1: unreachable code after return statement
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 265: ReferenceError: PaymentRequest is not defined
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/update-persistence.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1651070430049	geckodriver	INFO	Listening on 127.0.0.1:55217
+1651070430053	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilempjEsj"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651070430810	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilempjEsj/search.json.mozlz4", (void 0)))
+1651070432166	Marionette	INFO	Listening on port 34533
+Read port: 34533
+1651070432282	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=fch94a, line 1: unreachable code after return statement
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 265: ReferenceError: PaymentRequest is not defined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/update-persistence.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=fch94a, line 1: unreachable code after return statement
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 265: ReferenceError: PaymentRequest is not defined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/update-persistence.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.evino.com.br"
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1651070530364	geckodriver	INFO	Listening on 127.0.0.1:33961
+1651070530368	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilebawWfU"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651070531123	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebawWfU/search.json.mozlz4", (void 0)))
+1651070532536	Marionette	INFO	Listening on port 43709
+Read port: 43709
+1651070532594	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=fch94a, line 1: unreachable code after return statement
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 259: ReferenceError: PaymentRequest is not defined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/update-persistence.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=fch94a, line 1: unreachable code after return statement
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 259: ReferenceError: PaymentRequest is not defined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/update-persistence.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1651070552564	geckodriver	INFO	Listening on 127.0.0.1:39251
+1651070552568	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileeNktaI"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651070553320	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeNktaI/search.json.mozlz4", (void 0)))
+1651070554662	Marionette	INFO	Listening on port 46755
+Read port: 46755
+1651070554698	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=fch94a, line 1: unreachable code after return statement
+JavaScript error: https://pay.google.com/gp/p/js/pay.js, line 265: ReferenceError: PaymentRequest is not defined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/modules/client-purge.js, line 1: TypeError: window.location.ancestorOrigins is undefined
+JavaScript warning: https://tm.jsuol.com.br/modules/update-persistence.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1651070565963	Marionette	INFO	Stopped listening on port 46755
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1651070612319	Marionette	INFO	Stopped listening on port 39343
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651071161338	Marionette	INFO	Stopped listening on port 36317
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651071163099	Marionette	INFO	Stopped listening on port 35637
+1651071164793	Marionette	INFO	Stopped listening on port 46051
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651071166050	Marionette	INFO	Stopped listening on port 40225
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
