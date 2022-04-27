@@ -8,6 +8,7 @@ from selenium.webdriver.common.keys import Keys
 import time
 import random
 import string
+import re
 from pytest_bdd import (
     given,
     scenarios,
@@ -38,11 +39,7 @@ def setup():
     driver.execute_script("window.scrollTo(0, 800)") 
     time.sleep(3)
 
-
-@given(parsers.parse('one cart with "{number}" wines'))
-def one_cart_with_n_wines(setup, number):
-    """Add wines into cart"""
-    driver.find_element(By.XPATH, '//div[1]/div[1]/div[1]/a[1]/div[3]/figure[1]').click()
+def add_wine_to_cart(number):
     time.sleep(3)
     i = 1
     global winePrice
@@ -52,9 +49,17 @@ def one_cart_with_n_wines(setup, number):
         i+=1
     driver.find_element(By.XPATH, "//button[1]/div[2]").click()
 
+@given(parsers.parse('one cart with "{number}" wines'))
+def one_cart_with_n_wines(setup, number):
+    """Add wines into cart"""
+    driver.find_element(By.XPATH, '//div[1]/div[1]/div[1]/a[1]/div[3]/figure[1]').click()
+    add_wine_to_cart(number)
+
 @when(parsers.parse('and with "{number}" wines of another type'))
-def and_with_n_wines_of_another_type():
-    """"""
+def and_with_n_wines_of_another_type(number):
+    """Add wines into cart"""
+    driver.find_element(By.XPATH, '//div[2]/div[1]/div[1]/a[1]/div[3]/figure[1]/img[1]').click()
+    add_wine_to_cart(number)
 
 @when("user checks the cart")
 def user_checks_the_cart():
@@ -64,4 +69,13 @@ def user_checks_the_cart():
 
 @then(parsers.parse('must have "{number}" evino cut drops in the cart at no additional cost'))
 def must_have_n_evino_cut_drops_in_the_cart(number):
-    driver.find_element(By.XPATH)
+    text = driver.find_element(By.XPATH, "//p[contains(text(),'"+number+"un. grátis')]").text
+    assert text == number+"un. grátis"
+    total = driver.find_element(By.XPATH, "//div[@class='CartPriceWrapper']").text
+    number = re.findall(total)
+    print(number)
+
+@then(parsers.parse('the number on the cart logo must have be "{number}"'))
+def the_number_on_the_cart_logo_must_have_be(number):
+    total = driver.find_element(By.XPATH, "//span[@class='CartNavigation__quantity']").text
+    assert int(total) == int(number)
