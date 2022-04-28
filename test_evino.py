@@ -70,6 +70,9 @@ def one_cart_with_n_wines(setup, number):
 def and_with_n_wines_of_another_type(number):
     """Add wines into cart"""
     driver.find_element(By.XPATH, '//div[@class="Media__figure"]').click()
+    wait.until(
+            element_to_be_clickable((By.XPATH, '//div[2]/div[1]/div[1]/a[1]/div[3]/figure[1]')),'Element not found'
+        )
     driver.find_element(By.XPATH, '//div[2]/div[1]/div[1]/a[1]/div[3]/figure[1]').click()
     add_wine_to_cart(number)
 
