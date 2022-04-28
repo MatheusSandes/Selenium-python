@@ -14,6 +14,3 @@ pytest -m "a"
 ```
 pytest -m "a"
 ```
-### To run the third test scenario use the command: 
-```
-pytest -m "a"
