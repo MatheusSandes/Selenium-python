@@ -8,9 +8,5 @@ pip install webdriver-manager
 ```
 ### To run the first test scenario use the command: 
 ```
-pytest -m "a"
-```
-### To run the second test scenario use the command: 
-```
-pytest -m "a"
+pytest
 ```
